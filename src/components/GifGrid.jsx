@@ -19,7 +19,6 @@ const {images, isLoading} = useFetchGifs(category);
               />
             ))
           }
-          
         </div>
     </>
   )
